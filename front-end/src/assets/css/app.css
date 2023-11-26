@@ -1,0 +1,95 @@
+:root {
+  --font-family: "Titillium Web", sans-serif;
+}
+
+body {
+  background-color: #f7f7f7;
+  font-family: var(--font-family) !important;
+}
+
+.card-home {
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+.card-home:hover {
+  cursor: pointer;
+  background-color: #fff;
+  -webkit-box-shadow: 3px 5px 17px -4px #777777;
+  box-shadow: 3px 5px 17px -4px #777777;
+}
+
+.card-home img {
+  border: none;
+  border-radius: 10px;
+}
+
+.doctor-card {
+  border: none;
+  border-radius: 10px;
+  width: 300px;
+  transition: all 0.5s;
+}
+
+.doctor-card:hover {
+  -webkit-box-shadow: 3px 5px 17px -4px #777777;
+  box-shadow: 3px 5px 17px -4px #777777;
+}
+
+.doctor-ratings svg {
+  color: orange;
+}
+
+.doctor-consultation button {
+  border-radius: 20px;
+  background-color: #eee;
+  color: #000;
+  border-color: #eee;
+  font-size: 13px;
+}
+
+.btn-custom {
+  border-radius: 20px;
+  font-size: 13px;
+}
+
+.react-responsive-modal-modal {
+  width: 100% !important;
+  border-radius: 10px;
+}
+
+.css-ptkaw2-MuiDataGrid-root {
+  background-color: #fff !important;
+  border-radius: 10px !important;
+  font-family: var(--font-family) !important;
+}
+
+.data-table-header {
+  background-color: #fff !important;
+}
+
+.MuiDataGrid-columnHeaderTitle {
+  font-weight: bold !important;
+}
+
+.css-wop1k0-MuiDataGrid-footerContainer {
+  background-color: #fff !important;
+}
+
+.MuiDataGrid-row:hover {
+  cursor: pointer !important;
+}
+
+.consultation-card {
+  border: none;
+  border-radius: 10px;
+  transition: all 0.5s;
+}
+
+.consultation-card:hover {
+  -webkit-box-shadow: 3px 5px 17px -4px #777777;
+  box-shadow: 3px 5px 17px -4px #777777;
+}
