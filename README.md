@@ -57,6 +57,11 @@ A collaborative web application facilitating seamless interaction between doctor
 
 Visit `http://localhost:3000` in your browser to access the web application.
 
+
+## Demo
+
+A live demo of the medical web is available at [https://shakir-medical.netlify.app/](https://shakir-medical.netlify.app/)
+
 ## Authors
 
 - [@ShakirAliSWE](https://www.github.com/ShakirAliSWE)
